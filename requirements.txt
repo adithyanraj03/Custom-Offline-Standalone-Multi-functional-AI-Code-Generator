@@ -1,0 +1,5 @@
+streamlit
+llama-cpp-python
+opencv-python-headless
+numpy
+cryptography
