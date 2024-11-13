@@ -1,8 +1,8 @@
 #  Custom Offline Standalone Multi-functional AI Code Generator 
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" alt="AI Code Generator Demo" width="600">
+  <a href="https://github.com/adithyanraj03/Custom-Offline-Standalone-Multi-functional-AI-Code-Generator/blob/main/Demo-video.gif" target="_blank">
+    <img src="https://github.com/adithyanraj03/Custom-Offline-Standalone-Multi-functional-AI-Code-Generator/blob/main/Demo-video.gif" alt="AI Code Generator Demo" width="1200">
   </a>
 </p>
 
