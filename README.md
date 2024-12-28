@@ -42,11 +42,9 @@ Welcome to the Custom Offline Standalone Multi-functional AI Code Generator! Thi
    ```bash
    pip install -r requirements.txt
 
-4. Navigate to the dist directory:
-
-   ```bash
-   cd dist
-
 5. Run the application:
+
    ```bash
-   streamlit run main.py
+   
+   streamlit run Main.py or run Application Exe
+   
