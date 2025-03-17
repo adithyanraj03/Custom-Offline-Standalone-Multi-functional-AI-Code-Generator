@@ -8,8 +8,10 @@
 
 ## 🌟 Overview
 
-Welcome to the Custom Offline Standalone Multi-functional AI Code Generator! This powerful tool leverages advanced AI technology to generate code, process images, and perform various other tasks, all without requiring an internet connection.
+This repository contains a powerful tool that leverages an optimized 8B parameter language model running completely offline on your local machine. Built using a custom engine derived from the LAMA (Large Advancement in Model Architecture) framework, our application delivers AI-powered code generation without any internet dependency.
 ![Overview image ](https://github.com/adithyanraj03/Custom-Offline-Standalone-Multi-functional-AI-Code-Generator/blob/main/1.png)
+
+The implementation focuses on efficiency and usability, allowing developers to generate high-quality code across multiple programming languages without requiring cloud services or internet access. The custom LAMA-based engine has been specifically optimized to run the 8B parameter model with reasonable hardware requirements while maintaining excellent code generation capabilities.
 ## 🎨 Features
 
 - 💻 **Code Generation**: Generate Java code based on natural language prompts
